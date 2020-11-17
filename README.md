@@ -14,7 +14,9 @@ Link to the article
 
 <pending>
 
-- Orignial Measurements in a 1 sec resolution for the Fitness Gym and the Living Room. 
+Dataset content:
+
+- Original Measurements in a 1 sec resolution for the Fitness Gym and the Living Room. 
 - Train and test splits for each of the monitored spaces in the following resolutions: 10 sec, 10 sec avg, 30 sec, 30 sec avg, 1 min, 1 min avg, 5 min, 5 min avg.
 - Datasets with extra features for feature selection.
 
