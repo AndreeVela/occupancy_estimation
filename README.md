@@ -18,4 +18,4 @@ Experimental data used for multiclass classification (room occupancy) from Tempe
 
 Do not forget to cite the corresponding publication! Thank you!
 
-**Keywords:** decision trees, k-nearest neighborgs, occupancy detection, environmental variables.
+**Keywords:** temperature, relative humidity, barometric pressure, occupancy estimation, environmental variables.
