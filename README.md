@@ -1,6 +1,6 @@
-# Temperature, Humidity and Pressure for Occupancy Estimation
+# Estimating Occupancy Levels in Enclosed SpacesUsing Environmental Variables: A Fitness Gym andLiving Room as Evaluation Scenarios
 
-This is a repository for data for the publication:
+This is a repository related to the publication:
 
 <publication reference in XXX format>
 
@@ -8,7 +8,7 @@ Please cite this paper as:
 ```
 Publication reference as bibtex
 ```
-
+Link to the article | 
 
 Experimental data used for multiclass classification (room occupancy) from Temperature, Relative Humidity, and Barometric Pressure. Ground-truth occupancy was obtained in two ways: 1) from a subjective observation, and 2) from time stamped pictures that were taken every 10 minutes. The data includes:
 
