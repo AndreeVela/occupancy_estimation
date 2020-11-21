@@ -12,7 +12,7 @@ Vela, A.; Alvarado-Uribe, J.; Davila, M.; Hernandez-Gress, N.; Ceballos, H.G. Es
 
 Please cite this paper as:
 ```
-@article{ vela2020occupancy, 
+@article{ Vela_2020_occupancy, 
   title={Estimating Occupancy Levels in Enclosed Spaces Using Environmental Variables: A Fitness Gym and Living Room as Evaluation Scenarios}, 
   volume={20}, 
   DOI={10.3390/s20226579}, 
